@@ -30,5 +30,3 @@ Official Bordered Mark (no background) - PNG Format
 Official Bordered Mark (background) - PNG Format
 
 ![bordered-mark-bg](./export/Bordered%20Mark-BG__web.png)
-
-© Copyright 2024 Starnova LLC
